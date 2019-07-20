@@ -1,0 +1,23 @@
+Tasks (Strings using Functions):
+1.revering a string using function
+
+2.s="""JERTJUIL353IJKL JHKLGJ dhfgjkfh fhgfh gh
+ghkjhkf hjgjk
+gufhu ghfh 34876IUFRI 
+65*(&*()(*("""
+
+length of string
+no of uppercase letters,lower case
+no of words
+no of lines
+no of digits
+no of special charecters
+
+3.input:  abc123
+output: 6
+
+4.input: abc 123 cdg 456
+output: 579
+
+5.input: avinash
+output: avin@sh
